@@ -1,2 +1,3 @@
-# dotnet-codespaces-template
-Template for dotnet codespaces
+# Hello FSharp
+
+Some tutorials and exercises for FSharp. 
